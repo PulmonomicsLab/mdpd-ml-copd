@@ -1,5 +1,6 @@
 # Machine learning approaches to classify COPD stable and exacerbation stages
 This is one of the utility of the Microbiome database of pulmonary diseases (MDPD).
+
 Caret package in R is used to bulid different machine learning models (Support Vector Machine, Random Forest, Naive bayes, Generalized Linear Model and Multilayer perceptron) using the ASV matrix from Amplicon-16S sequencing data collected from MDPD.
 
 ## Dataset 1
